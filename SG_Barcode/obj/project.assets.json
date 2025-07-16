@@ -412,11 +412,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\desarrollo1\\source\\repos\\SG_Barcode\\SG_Barcode\\SG_Barcode.csproj",
+      "projectUniqueName": "C:\\Proyectos\\Barcodes\\BarCodesGenerator\\SG_Barcode\\SG_Barcode.csproj",
       "projectName": "SG_Barcode",
-      "projectPath": "C:\\Users\\desarrollo1\\source\\repos\\SG_Barcode\\SG_Barcode\\SG_Barcode.csproj",
+      "projectPath": "C:\\Proyectos\\Barcodes\\BarCodesGenerator\\SG_Barcode\\SG_Barcode.csproj",
       "packagesPath": "C:\\Users\\desarrollo1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\desarrollo1\\source\\repos\\SG_Barcode\\SG_Barcode\\obj\\",
+      "outputPath": "C:\\Proyectos\\Barcodes\\BarCodesGenerator\\SG_Barcode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"

@@ -45,6 +45,11 @@ namespace SG_Barcode
 
         private void Btn_generar_Click(object? sender, EventArgs e)
         {
+            this.pnl_Barcodes.Controls.Clear();
+            int left = 10;
+            int top = 10;
+            int width = this.pnl_Barcodes.Width;
+            
             string[] arrContentCodeBar = this.txtData.Text.Split(new string[] { "\r\n" }, StringSplitOptions.None);
             BarcodeStandard.Type[] types = (BarcodeStandard.Type[])Enum.GetValues(typeof(BarcodeStandard.Type));
 
@@ -59,11 +64,11 @@ namespace SG_Barcode
                 MessageBox.Show("Las propiedades \"Alto\" y \"Ancho\" son obligatorias");
                 return;
             }    
-
-            this.pnl_Barcodes.Controls.Clear();
-            int left = 10;
-            int top = 10;
-            int width = this.pnl_Barcodes.Width;
+            if (this.txtData.Text == "")
+            {
+                MessageBox.Show("Se requiere al menos un dato para generar los códigos de barras");
+                return;
+            }
 
             try
             {

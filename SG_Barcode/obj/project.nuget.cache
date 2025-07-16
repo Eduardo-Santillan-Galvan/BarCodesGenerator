@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dpwlO/i4P5w=",
+  "dgSpecHash": "GjlXyB/sL90=",
   "success": true,
-  "projectFilePath": "C:\\Users\\desarrollo1\\source\\repos\\SG_Barcode\\SG_Barcode\\SG_Barcode.csproj",
+  "projectFilePath": "C:\\Proyectos\\Barcodes\\BarCodesGenerator\\SG_Barcode\\SG_Barcode.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\desarrollo1\\.nuget\\packages\\barcodelib\\3.1.5\\barcodelib.3.1.5.nupkg.sha512",
     "C:\\Users\\desarrollo1\\.nuget\\packages\\skiasharp\\2.88.8\\skiasharp.2.88.8.nupkg.sha512",

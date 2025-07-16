@@ -111,7 +111,7 @@
             txt_width.Name = "txt_width";
             txt_width.Size = new Size(171, 31);
             txt_width.TabIndex = 4;
-            txt_width.Text = "250";
+            txt_width.Text = "320";
             // 
             // txt_Height
             // 
@@ -119,7 +119,7 @@
             txt_Height.Name = "txt_Height";
             txt_Height.Size = new Size(171, 31);
             txt_Height.TabIndex = 3;
-            txt_Height.Text = "80";
+            txt_Height.Text = "100";
             // 
             // btn_print
             // 
@@ -170,6 +170,7 @@
             txtData.Location = new Point(0, 0);
             txtData.Multiline = true;
             txtData.Name = "txtData";
+            txtData.PlaceholderText = "Texto a procesar";
             txtData.Size = new Size(904, 248);
             txtData.TabIndex = 1;
             // 
