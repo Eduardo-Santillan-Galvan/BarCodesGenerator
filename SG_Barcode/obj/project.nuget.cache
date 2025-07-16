@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "dpwlO/i4P5w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\desarrollo1\\source\\repos\\SG_Barcode\\SG_Barcode\\SG_Barcode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\desarrollo1\\.nuget\\packages\\barcodelib\\3.1.5\\barcodelib.3.1.5.nupkg.sha512",
+    "C:\\Users\\desarrollo1\\.nuget\\packages\\skiasharp\\2.88.8\\skiasharp.2.88.8.nupkg.sha512",
+    "C:\\Users\\desarrollo1\\.nuget\\packages\\skiasharp.nativeassets.linux.nodependencies\\2.88.8\\skiasharp.nativeassets.linux.nodependencies.2.88.8.nupkg.sha512",
+    "C:\\Users\\desarrollo1\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.8\\skiasharp.nativeassets.macos.2.88.8.nupkg.sha512",
+    "C:\\Users\\desarrollo1\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.8\\skiasharp.nativeassets.win32.2.88.8.nupkg.sha512",
+    "C:\\Users\\desarrollo1\\.nuget\\packages\\system.resources.extensions\\8.0.0\\system.resources.extensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\desarrollo1\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
